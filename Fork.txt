@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nombre: Pablo Nahuel Acosta
 Ip:192.168.43.118
 Hora: 11:50
@@ -8,3 +9,9 @@ Nombre: Federico Agustín Ortiz
 IP: 192.168.0.7
 Hora: 10:58
 >>>>>>> a582c13... Datos de Gamma
+=======
+Nombre: Federico Agustín Ortiz
+IP: 192.168.0.7
+Hora: 10:58
+Falcioni Facundo IP: 192.168.0.87 Hora: 11:29
+>>>>>>> 1c2450e2e71204b1c77ef506f1770da04ca615fb
