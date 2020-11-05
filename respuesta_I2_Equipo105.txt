@@ -1,0 +1,9 @@
+Facundo Gabriel Falcioni
+Pablo Nahuel Acosta
+Federico Agustin Ortiz
+
+Cada uno realizo un git clone "url del repositorio" para poder descargar el repositorio de forma local
+Luego de modificar los archivos pedidos usamos el git add . git commit -m "mensaje" y por ultimo git push
+Hubo que agregar el repositorio original al nuestro con el comando git remote "url del repositorio"
+Alfa y Gamma utilizamos el comando git pull upstream master para obtener de esta forma el repositorio en el estado
+que lo tenia beta. Por ultimo un git push para subir los cambios a nuestro fork
